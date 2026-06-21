@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekSohal&label=Profile views&color=0e75b6&style=flat" alt="AbhishekSohal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhishekSohal" alt="AbhishekSohal" /></a> </p>
-
 - 🔭 I'm currently working on **A real-time DSA battle platform**
 
 - 🌱 I'm currently learning **advanced Node.js and Nginx**
