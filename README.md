@@ -1,5 +1,5 @@
 # 💫 About Me:
-SDE Intern Aspirant | DSA in Python | PERN Stack | SQL & Data Analysis<br>🔭 I’m currently working on A real-time DSA battle platform<br>👯 I’m looking to collaborate on open-source full-stack (PERN) and Data Analysis Projects<br>🤝 I’m looking for help with system design, backend scalability, and best practices in production-grade apps<br>🌱 I’m currently learning advanced Node.js and Nginx<br>
+SDE Intern Aspirant | DSA in Python | PERN Stack | SQL & Data Analysis<br>🔭 I’m currently working on A real-time DSA battle platform<br>👯 I’m looking to collaborate on open-source full-stack (PERN) and Data Analysis Projects<br>🤝 I’m looking for help with system design, backend scalability, and best practices in production-grade apps<br>🌱 I’m currently learning advanced Node.js , Nginx and Web Scraping<br>
 
 
 ## 🌐 Socials:
