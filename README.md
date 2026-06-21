@@ -23,6 +23,5 @@ SDE Intern Aspirant | DSA in Python | PERN Stack | SQL & Data Analysis<br>🔭 I
 ![](https://github-contributor-stats.vercel.app/api?username=AbhishekSohal&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AbhishekSohal&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=AbhishekSohal)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
