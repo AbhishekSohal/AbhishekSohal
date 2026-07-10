@@ -80,10 +80,12 @@ Mechanical engineering student at PEC Chandigarh, building software and working 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekSohal&bg_color=00000000&color=ed6307&line=ed6307&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+### 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekSohal/AbhishekSohal/output/dist/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/AbhishekSohal/AbhishekSohal/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/AbhishekSohal/AbhishekSohal/output/dist/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -94,4 +96,7 @@ Mechanical engineering student at PEC Chandigarh, building software and working 
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/AbhishekSohal">AbhishekSohal</a></i></p>
+<p align="center">
+  ⭐️ From <a href="https://github.com/AbhishekSohal">AbhishekSohal</a> &nbsp;|&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AbhishekSohal&color=ed6307&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
