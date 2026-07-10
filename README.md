@@ -80,6 +80,13 @@ Mechanical engineering student at PEC Chandigarh, building software and working 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekSohal&bg_color=00000000&color=ed6307&line=ed6307&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekSohal/AbhishekSohal/output/dist/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/AbhishekSohal/AbhishekSohal/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ### 💭 Dev Quote
 
 <p align="center">
