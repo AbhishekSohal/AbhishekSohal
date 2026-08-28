@@ -13,7 +13,7 @@
 Mechanical engineering student at PEC Chandigarh, building software and working with data. I've shipped full-stack apps (Blogit, Samadhan) and end-to-end analytics projects (SQL → Python → Tableau), and I solve DSA problems daily on LeetCode. Open to SDE and data analyst internships.
 
 🔭 &nbsp;I'm currently working on **Tech Skill Tracker**  
-🌱 &nbsp;I'm currently learning **advanced Node.js , Nginx and Web Scraping**  
+🌱 &nbsp;I'm currently learning **advanced Node.js , Reactjs**  
 👯 &nbsp;I'm looking to collaborate on **open-source full-stack (PERN) and Data Analysis Projects**  
 🤔 &nbsp;I'm looking for help with **system design, backend scalability, and best practices in production-grade apps**
 
